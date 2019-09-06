@@ -1,0 +1,9 @@
+I:\DotnetCBDDemos\MyStandardLibrary\bin\Release\netstandard2.0\MyStandardLibrary.deps.json
+I:\DotnetCBDDemos\MyStandardLibrary\bin\Release\netstandard2.0\MyStandardLibrary.dll
+I:\DotnetCBDDemos\MyStandardLibrary\bin\Release\netstandard2.0\MyStandardLibrary.pdb
+I:\DotnetCBDDemos\MyStandardLibrary\obj\Release\netstandard2.0\MyStandardLibrary.csprojAssemblyReference.cache
+I:\DotnetCBDDemos\MyStandardLibrary\obj\Release\netstandard2.0\MyStandardLibrary.csproj.CoreCompileInputs.cache
+I:\DotnetCBDDemos\MyStandardLibrary\obj\Release\netstandard2.0\MyStandardLibrary.AssemblyInfoInputs.cache
+I:\DotnetCBDDemos\MyStandardLibrary\obj\Release\netstandard2.0\MyStandardLibrary.AssemblyInfo.cs
+I:\DotnetCBDDemos\MyStandardLibrary\obj\Release\netstandard2.0\MyStandardLibrary.dll
+I:\DotnetCBDDemos\MyStandardLibrary\obj\Release\netstandard2.0\MyStandardLibrary.pdb

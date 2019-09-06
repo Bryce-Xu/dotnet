@@ -1,0 +1,24 @@
+﻿<Window x:Class="UnderstandDataTemplate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UnderstandDataTemplate"
+        mc:Ignorable="d"
+        Title="数据模板示例" SizeToContent="Height" Width="430">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+    </Window.Resources>
+
+    <StackPanel Margin="10">
+        <Button Content="不使用数据模板（无任何设置）" Name="btnNotUseDataTemplate" Click="btnNotUseDataTemplate_Click"/>
+        <Button Content="不使用数据模板（指定DisplayMemberPath属性）"  Name="btnNotUseDataTemplate2" Click="btnNotUseDataTemplate2_Click"/>
+        <Button Content="使用内联数据模板" Name="btnUseDataTemplate" Click="btnUseDataTemplate_Click"/>
+        <Button Content="将数据模板存放于资源中" Name="btnUseDataTemplateInResource" Click="btnUseDataTemplateInResource_Click"/>
+        <Button Content="自动套用数据模板" Name="btnAutoApplyDataTemplate" Click="btnAutoApplyDataTemplate_Click"/>
+
+    </StackPanel>
+</Window>

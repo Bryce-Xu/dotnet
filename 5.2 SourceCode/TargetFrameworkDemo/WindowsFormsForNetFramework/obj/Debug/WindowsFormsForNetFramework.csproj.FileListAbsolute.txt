@@ -1,0 +1,13 @@
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\bin\Debug\WindowsFormsForNetFramework.exe.config
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\bin\Debug\WindowsFormsForNetFramework.exe
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\bin\Debug\WindowsFormsForNetFramework.pdb
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\bin\Debug\StandardLibrary.dll
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\bin\Debug\StandardLibrary.pdb
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\obj\Debug\WindowsFormsForNetFramework.csprojAssemblyReference.cache
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\obj\Debug\WindowsFormsForNetFramework.Form1.resources
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\obj\Debug\WindowsFormsForNetFramework.Properties.Resources.resources
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\obj\Debug\WindowsFormsForNetFramework.csproj.GenerateResource.cache
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\obj\Debug\WindowsFormsForNetFramework.csproj.CoreCompileInputs.cache
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\obj\Debug\WindowsFormsForNetFramework.csproj.CopyComplete
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\obj\Debug\WindowsFormsForNetFramework.exe
+I:\TargetFrameworkDemo\WindowsFormsForNetFramework\obj\Debug\WindowsFormsForNetFramework.pdb

@@ -1,0 +1,18 @@
+﻿<Window x:Class="BindToCollection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BindToCollection"
+        mc:Ignorable="d"
+        Title="绑定到集合" SizeToContent="Height" Width="300">
+    <StackPanel Margin="10">
+        <ListBox x:Name="lstDataItems" DisplayMemberPath="ItemValue" 
+                 Width="Auto" Height="150" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Margin="10" Padding="3" x:Name="btnAdd" Click="btnAdd_Click">新增记录</Button>
+            <Button Margin="10" Padding="3" x:Name="btnDelete" Click="btnDelete_Click">删除当前记录</Button>
+            <Button Margin="10" Padding="3" x:Name="btnModify" Click="btnModify_Click">修改当前记录</Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

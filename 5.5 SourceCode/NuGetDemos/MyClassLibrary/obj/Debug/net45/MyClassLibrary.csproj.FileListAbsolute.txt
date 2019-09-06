@@ -1,0 +1,8 @@
+I:\NuGetDemos\MyClassLibrary\bin\Debug\net45\MyClassLibrary.dll
+I:\NuGetDemos\MyClassLibrary\bin\Debug\net45\MyClassLibrary.pdb
+I:\NuGetDemos\MyClassLibrary\obj\Debug\net45\MyClassLibrary.csprojAssemblyReference.cache
+I:\NuGetDemos\MyClassLibrary\obj\Debug\net45\MyClassLibrary.csproj.CoreCompileInputs.cache
+I:\NuGetDemos\MyClassLibrary\obj\Debug\net45\MyClassLibrary.AssemblyInfoInputs.cache
+I:\NuGetDemos\MyClassLibrary\obj\Debug\net45\MyClassLibrary.AssemblyInfo.cs
+I:\NuGetDemos\MyClassLibrary\obj\Debug\net45\MyClassLibrary.dll
+I:\NuGetDemos\MyClassLibrary\obj\Debug\net45\MyClassLibrary.pdb

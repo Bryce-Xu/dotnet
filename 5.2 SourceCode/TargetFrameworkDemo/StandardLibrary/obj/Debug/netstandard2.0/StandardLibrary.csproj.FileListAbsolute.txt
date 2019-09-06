@@ -1,0 +1,17 @@
+E:\TargetFrameworkDemo\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.deps.json
+E:\TargetFrameworkDemo\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.dll
+E:\TargetFrameworkDemo\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.pdb
+E:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.csproj.CoreCompileInputs.cache
+E:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.AssemblyInfoInputs.cache
+E:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.AssemblyInfo.cs
+E:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.dll
+E:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.pdb
+I:\TargetFrameworkDemo\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.deps.json
+I:\TargetFrameworkDemo\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.dll
+I:\TargetFrameworkDemo\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.pdb
+I:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.csprojAssemblyReference.cache
+I:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.csproj.CoreCompileInputs.cache
+I:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.AssemblyInfoInputs.cache
+I:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.AssemblyInfo.cs
+I:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.dll
+I:\TargetFrameworkDemo\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.pdb

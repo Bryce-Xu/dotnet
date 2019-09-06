@@ -1,0 +1,2 @@
+I:\TargetFrameworkDemo\UWPApp\UWPApp.csproj;x86
+I:\TargetFrameworkDemo\UWPLibrary\UWPLibrary.csproj;neutral

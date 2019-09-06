@@ -1,0 +1,17 @@
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\bin\Debug\netcoreapp3.0\ShowPolymorphismCollection.exe
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\bin\Debug\netcoreapp3.0\ShowPolymorphismCollection.deps.json
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\bin\Debug\netcoreapp3.0\ShowPolymorphismCollection.runtimeconfig.json
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\bin\Debug\netcoreapp3.0\ShowPolymorphismCollection.runtimeconfig.dev.json
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\bin\Debug\netcoreapp3.0\ShowPolymorphismCollection.dll
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\bin\Debug\netcoreapp3.0\ShowPolymorphismCollection.pdb
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\App.g.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\ShowPolymorphismCollection_MarkupCompile.cache
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\ShowPolymorphismCollection_MarkupCompile.lref
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\ShowPolymorphismCollection.g.resources
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\ShowPolymorphismCollection.AssemblyInfoInputs.cache
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\ShowPolymorphismCollection.AssemblyInfo.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\ShowPolymorphismCollection.dll
+D:\MyDotNetProjects\WPFDataBindingDemos\ShowPolymorphismCollection\obj\Debug\netcoreapp3.0\ShowPolymorphismCollection.pdb

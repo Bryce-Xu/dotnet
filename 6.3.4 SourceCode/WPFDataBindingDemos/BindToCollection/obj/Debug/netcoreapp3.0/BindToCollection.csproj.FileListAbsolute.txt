@@ -1,0 +1,17 @@
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\bin\Debug\netcoreapp3.0\BindToCollection.exe
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\bin\Debug\netcoreapp3.0\BindToCollection.deps.json
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\bin\Debug\netcoreapp3.0\BindToCollection.runtimeconfig.json
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\bin\Debug\netcoreapp3.0\BindToCollection.runtimeconfig.dev.json
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\bin\Debug\netcoreapp3.0\BindToCollection.dll
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\bin\Debug\netcoreapp3.0\BindToCollection.pdb
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\BindToCollection.csprojAssemblyReference.cache
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\App.g.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\BindToCollection_MarkupCompile.cache
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\BindToCollection_MarkupCompile.lref
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\BindToCollection.g.resources
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\BindToCollection.AssemblyInfoInputs.cache
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\BindToCollection.AssemblyInfo.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\BindToCollection.dll
+D:\MyDotNetProjects\WPFDataBindingDemos\BindToCollection\obj\Debug\netcoreapp3.0\BindToCollection.pdb

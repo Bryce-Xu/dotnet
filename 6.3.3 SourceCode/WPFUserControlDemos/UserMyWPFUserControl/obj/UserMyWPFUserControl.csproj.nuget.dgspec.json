@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\WPFUserControlDemos\\UserMyWPFUserControl\\UserMyWPFUserControl.csproj": {}
+  },
+  "projects": {
+    "I:\\WPFUserControlDemos\\MyWPFUserControlLibrary\\MyWPFUserControlLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\WPFUserControlDemos\\MyWPFUserControlLibrary\\MyWPFUserControlLibrary.csproj",
+        "projectName": "MyWPFUserControlLibrary",
+        "projectPath": "I:\\WPFUserControlDemos\\MyWPFUserControlLibrary\\MyWPFUserControlLibrary.csproj",
+        "packagesPath": "C:\\Users\\JinXuLiang\\.nuget\\packages\\",
+        "outputPath": "I:\\WPFUserControlDemos\\MyWPFUserControlLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JinXuLiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\MyNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\WPFUserControlDemos\\UserMyWPFUserControl\\UserMyWPFUserControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\WPFUserControlDemos\\UserMyWPFUserControl\\UserMyWPFUserControl.csproj",
+        "projectName": "UserMyWPFUserControl",
+        "projectPath": "I:\\WPFUserControlDemos\\UserMyWPFUserControl\\UserMyWPFUserControl.csproj",
+        "packagesPath": "C:\\Users\\JinXuLiang\\.nuget\\packages\\",
+        "outputPath": "I:\\WPFUserControlDemos\\UserMyWPFUserControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JinXuLiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\MyNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "I:\\WPFUserControlDemos\\MyWPFUserControlLibrary\\MyWPFUserControlLibrary.csproj": {
+                "projectPath": "I:\\WPFUserControlDemos\\MyWPFUserControlLibrary\\MyWPFUserControlLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

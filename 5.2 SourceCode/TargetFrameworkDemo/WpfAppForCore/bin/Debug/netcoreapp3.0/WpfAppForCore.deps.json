@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "WpfAppForCore/1.0.0": {
+        "dependencies": {
+          "StandardLibrary": "1.0.0",
+          "dotNetCoreLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WpfAppForCore.dll": {}
+        }
+      },
+      "dotNetCoreLibrary/1.0.0": {
+        "runtime": {
+          "dotNetCoreLibrary.dll": {}
+        }
+      },
+      "StandardLibrary/1.0.0": {
+        "runtime": {
+          "StandardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfAppForCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dotNetCoreLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StandardLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+I:\NuGetDemos\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.deps.json
+I:\NuGetDemos\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.dll
+I:\NuGetDemos\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.pdb
+I:\NuGetDemos\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+I:\NuGetDemos\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.AssemblyInfoInputs.cache
+I:\NuGetDemos\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.AssemblyInfo.cs
+I:\NuGetDemos\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.dll
+I:\NuGetDemos\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.pdb

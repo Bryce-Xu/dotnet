@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UserMyWPFUserControl/1.0.0": {
+        "dependencies": {
+          "MyWPFUserControlLibrary": "1.0.0"
+        },
+        "runtime": {
+          "UserMyWPFUserControl.dll": {}
+        }
+      },
+      "MyWPFUserControlLibrary/1.0.0": {
+        "runtime": {
+          "MyWPFUserControlLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserMyWPFUserControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyWPFUserControlLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

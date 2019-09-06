@@ -1,0 +1,16 @@
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\bin\Debug\netcoreapp3.0\WhatIsDataBind3.exe
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\bin\Debug\netcoreapp3.0\WhatIsDataBind3.deps.json
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\bin\Debug\netcoreapp3.0\WhatIsDataBind3.runtimeconfig.json
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\bin\Debug\netcoreapp3.0\WhatIsDataBind3.runtimeconfig.dev.json
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\bin\Debug\netcoreapp3.0\WhatIsDataBind3.dll
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\bin\Debug\netcoreapp3.0\WhatIsDataBind3.pdb
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\App.g.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\WhatIsDataBind3_MarkupCompile.cache
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\WhatIsDataBind3_MarkupCompile.lref
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\WhatIsDataBind3.g.resources
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\WhatIsDataBind3.AssemblyInfoInputs.cache
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\WhatIsDataBind3.AssemblyInfo.cs
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\WhatIsDataBind3.dll
+D:\MyDotNetProjects\WPFDataBindingDemos\WhatIsDataBind3\obj\Debug\netcoreapp3.0\WhatIsDataBind3.pdb

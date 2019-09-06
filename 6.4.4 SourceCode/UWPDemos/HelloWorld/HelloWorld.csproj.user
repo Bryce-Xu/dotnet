@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SplashScreenSource>I:\panda.jpg</SplashScreenSource>
+    <AppIconSource>I:\AppIcon.png</AppIconSource>
+    <Source>I:\AppIcon.png</Source>
+    <SmallTileSource>I:\AppIcon.png</SmallTileSource>
+    <MediumTileSource>I:\AppIcon.png</MediumTileSource>
+    <WideTileSource>I:\AppIcon.png</WideTileSource>
+    <LargeTileSource>I:\AppIcon.png</LargeTileSource>
+    <PackageLogoSource>I:\AppIcon.png</PackageLogoSource>
+    <BadgeLogoSource>I:\AppIcon.png</BadgeLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>

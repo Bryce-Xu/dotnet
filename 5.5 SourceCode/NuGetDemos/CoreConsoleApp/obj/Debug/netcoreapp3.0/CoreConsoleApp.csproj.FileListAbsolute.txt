@@ -1,0 +1,14 @@
+I:\NuGetDemos\CoreConsoleApp\bin\Debug\netcoreapp3.0\CoreConsoleApp.exe
+I:\NuGetDemos\CoreConsoleApp\obj\Debug\netcoreapp3.0\CoreConsoleApp.csprojAssemblyReference.cache
+I:\NuGetDemos\CoreConsoleApp\obj\Debug\netcoreapp3.0\CoreConsoleApp.csproj.CoreCompileInputs.cache
+I:\NuGetDemos\CoreConsoleApp\obj\Debug\netcoreapp3.0\CoreConsoleApp.AssemblyInfoInputs.cache
+I:\NuGetDemos\CoreConsoleApp\obj\Debug\netcoreapp3.0\CoreConsoleApp.AssemblyInfo.cs
+I:\NuGetDemos\CoreConsoleApp\bin\Debug\netcoreapp3.0\CoreConsoleApp.deps.json
+I:\NuGetDemos\CoreConsoleApp\bin\Debug\netcoreapp3.0\CoreConsoleApp.runtimeconfig.json
+I:\NuGetDemos\CoreConsoleApp\bin\Debug\netcoreapp3.0\CoreConsoleApp.runtimeconfig.dev.json
+I:\NuGetDemos\CoreConsoleApp\bin\Debug\netcoreapp3.0\CoreConsoleApp.dll
+I:\NuGetDemos\CoreConsoleApp\bin\Debug\netcoreapp3.0\CoreConsoleApp.pdb
+I:\NuGetDemos\CoreConsoleApp\bin\Debug\netcoreapp3.0\MyClassLibrary.dll
+I:\NuGetDemos\CoreConsoleApp\obj\Debug\netcoreapp3.0\CoreConsoleApp.csproj.CopyComplete
+I:\NuGetDemos\CoreConsoleApp\obj\Debug\netcoreapp3.0\CoreConsoleApp.dll
+I:\NuGetDemos\CoreConsoleApp\obj\Debug\netcoreapp3.0\CoreConsoleApp.pdb

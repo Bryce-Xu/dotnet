@@ -1,0 +1,13 @@
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\bin\Debug\netcoreapp3.0\MyWPFUserControlLibrary.deps.json
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\bin\Debug\netcoreapp3.0\MyWPFUserControlLibrary.dll
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\bin\Debug\netcoreapp3.0\MyWPFUserControlLibrary.pdb
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\MyWPFUserControlLibrary.csprojAssemblyReference.cache
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\CurrentTime.g.cs
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\MyWPFUserControlLibrary_MarkupCompile.cache
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\MyWPFUserControlLibrary_MarkupCompile.lref
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\CurrentTime.baml
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\MyWPFUserControlLibrary.g.resources
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\MyWPFUserControlLibrary.AssemblyInfoInputs.cache
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\MyWPFUserControlLibrary.AssemblyInfo.cs
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\MyWPFUserControlLibrary.dll
+I:\WPFUserControlDemos\MyWPFUserControlLibrary\obj\Debug\netcoreapp3.0\MyWPFUserControlLibrary.pdb

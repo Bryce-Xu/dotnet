@@ -1,0 +1,15 @@
+﻿<Window x:Class="UserMyWPFUserControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserMyWPFUserControl"
+        xmlns:jxl="clr-namespace:MyWPFUserControlLibrary;assembly=MyWPFUserControlLibrary"
+        mc:Ignorable="d"
+        Title="用户控件示例" Height="150" Width="400">
+    <StackPanel>
+        <TextBlock FontSize="24" Text="使用WPF用户控件(计时器)" Margin="5" 
+                   Padding="5" HorizontalAlignment="Center"></TextBlock>
+        <jxl:CurrentTime Padding="10" Margin="5"></jxl:CurrentTime>
+    </StackPanel>
+</Window>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyClassLibrary</id>
+    <version>1.0.1</version>
+    <authors>JinXuLiang</authors>
+    <owners>JinXuLiang</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>一个用于展示NuGet相关特性的示例用包</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="I:\NuGetDemos\MyClassLibrary\bin\Debug\net45\MyClassLibrary.dll" target="lib\net45\MyClassLibrary.dll" />
+    <file src="I:\NuGetDemos\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.dll" target="lib\netstandard2.0\MyClassLibrary.dll" />
+  </files>
+</package>

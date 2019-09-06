@@ -1,0 +1,12 @@
+I:\NuGetDemos\TraditionalWinForm\bin\Debug\TraditionalWinForm.exe.config
+I:\NuGetDemos\TraditionalWinForm\bin\Debug\TraditionalWinForm.exe
+I:\NuGetDemos\TraditionalWinForm\bin\Debug\TraditionalWinForm.pdb
+I:\NuGetDemos\TraditionalWinForm\bin\Debug\MyClassLibrary.dll
+I:\NuGetDemos\TraditionalWinForm\obj\Debug\TraditionalWinForm.csprojAssemblyReference.cache
+I:\NuGetDemos\TraditionalWinForm\obj\Debug\TraditionalWinForm.frmMain.resources
+I:\NuGetDemos\TraditionalWinForm\obj\Debug\TraditionalWinForm.Properties.Resources.resources
+I:\NuGetDemos\TraditionalWinForm\obj\Debug\TraditionalWinForm.csproj.GenerateResource.cache
+I:\NuGetDemos\TraditionalWinForm\obj\Debug\TraditionalWinForm.csproj.CoreCompileInputs.cache
+I:\NuGetDemos\TraditionalWinForm\obj\Debug\TraditionalWinForm.csproj.CopyComplete
+I:\NuGetDemos\TraditionalWinForm\obj\Debug\TraditionalWinForm.exe
+I:\NuGetDemos\TraditionalWinForm\obj\Debug\TraditionalWinForm.pdb

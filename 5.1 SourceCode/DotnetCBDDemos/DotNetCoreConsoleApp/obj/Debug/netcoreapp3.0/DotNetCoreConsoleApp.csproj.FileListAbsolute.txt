@@ -1,0 +1,16 @@
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\obj\Debug\netcoreapp3.0\DotNetCoreConsoleApp.csprojAssemblyReference.cache
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\obj\Debug\netcoreapp3.0\DotNetCoreConsoleApp.csproj.CoreCompileInputs.cache
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\obj\Debug\netcoreapp3.0\DotNetCoreConsoleApp.AssemblyInfoInputs.cache
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\obj\Debug\netcoreapp3.0\DotNetCoreConsoleApp.AssemblyInfo.cs
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\DotNetCoreConsoleApp.exe
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\DotNetCoreConsoleApp.deps.json
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\DotNetCoreConsoleApp.runtimeconfig.json
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\DotNetCoreConsoleApp.runtimeconfig.dev.json
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\DotNetCoreConsoleApp.dll
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\DotNetCoreConsoleApp.pdb
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\MyStandardLibrary.dll
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\MyStandardLibrary.pdb
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\obj\Debug\netcoreapp3.0\DotNetCoreConsoleApp.csproj.CopyComplete
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\obj\Debug\netcoreapp3.0\DotNetCoreConsoleApp.dll
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\obj\Debug\netcoreapp3.0\DotNetCoreConsoleApp.pdb
+I:\DotnetCBDDemos\DotNetCoreConsoleApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll

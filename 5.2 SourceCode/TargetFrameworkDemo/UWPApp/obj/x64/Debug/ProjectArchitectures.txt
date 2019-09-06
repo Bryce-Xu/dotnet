@@ -1,0 +1,2 @@
+I:\TargetFrameworkDemo\UWPApp\UWPApp.csproj;x64
+I:\TargetFrameworkDemo\UWPLibrary\UWPLibrary.csproj;x64

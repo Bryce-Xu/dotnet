@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\TargetFrameworkDemo\\UWPApp\\UWPApp.csproj": {}
+  },
+  "projects": {
+    "I:\\TargetFrameworkDemo\\StandardLibrary\\StandardLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\TargetFrameworkDemo\\StandardLibrary\\StandardLibrary.csproj",
+        "projectName": "StandardLibrary",
+        "projectPath": "I:\\TargetFrameworkDemo\\StandardLibrary\\StandardLibrary.csproj",
+        "packagesPath": "C:\\Users\\JinXuLiang\\.nuget\\packages\\",
+        "outputPath": "I:\\TargetFrameworkDemo\\StandardLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JinXuLiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\MyNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "I:\\TargetFrameworkDemo\\UWPApp\\UWPApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\TargetFrameworkDemo\\UWPApp\\UWPApp.csproj",
+        "projectName": "UWPApp",
+        "projectPath": "I:\\TargetFrameworkDemo\\UWPApp\\UWPApp.csproj",
+        "packagesPath": "C:\\Users\\JinXuLiang\\.nuget\\packages\\",
+        "outputPath": "I:\\TargetFrameworkDemo\\UWPApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JinXuLiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\MyNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "I:\\TargetFrameworkDemo\\StandardLibrary\\StandardLibrary.csproj": {
+                "projectPath": "I:\\TargetFrameworkDemo\\StandardLibrary\\StandardLibrary.csproj"
+              },
+              "I:\\TargetFrameworkDemo\\UWPLibrary\\UWPLibrary.csproj": {
+                "projectPath": "I:\\TargetFrameworkDemo\\UWPLibrary\\UWPLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "I:\\TargetFrameworkDemo\\UWPLibrary\\UWPLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\TargetFrameworkDemo\\UWPLibrary\\UWPLibrary.csproj",
+        "projectName": "UWPLibrary",
+        "projectPath": "I:\\TargetFrameworkDemo\\UWPLibrary\\UWPLibrary.csproj",
+        "packagesPath": "C:\\Users\\JinXuLiang\\.nuget\\packages\\",
+        "outputPath": "I:\\TargetFrameworkDemo\\UWPLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JinXuLiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\MyNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

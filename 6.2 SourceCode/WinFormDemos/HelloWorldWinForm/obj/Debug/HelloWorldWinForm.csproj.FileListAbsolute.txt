@@ -1,0 +1,14 @@
+I:\WinFormDemos\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.exe.config
+I:\WinFormDemos\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.exe
+I:\WinFormDemos\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.pdb
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csprojAssemblyReference.cache
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.Form1.resources
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.Properties.Resources.resources
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csproj.GenerateResource.cache
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csproj.CoreCompileInputs.cache
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.exe
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.pdb
+I:\WinFormDemos\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.exe.manifest
+I:\WinFormDemos\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.application
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.exe.manifest
+I:\WinFormDemos\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.application
